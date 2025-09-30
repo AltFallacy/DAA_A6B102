@@ -10,4 +10,4 @@ def lrs(str1):
   n=len(str1)
   return helper(n,n,str1)
 final=lrs(str1)
-print(final
+print(final)
