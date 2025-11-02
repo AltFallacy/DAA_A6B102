@@ -44,4 +44,4 @@ graph2 = [
 ]
 labels2 = ['A', 'B', 'C', 'D', 'E']
 print("\nGraph 2 Coloring:")
-solveGraphColoring(graph2, 3, labels2)
+solveGraphColoring(graph2, 5, labels2)
